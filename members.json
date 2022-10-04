@@ -1,0 +1,28 @@
+{ 
+    "memberlist" : [
+    {
+        "firstname" : "Stine",
+        "lastname" : "Kleis",
+        "age" : 22,
+        "image": "morten.png"
+    },
+    {
+        "firstname" : "Christian",
+        "lastname" : "Thrige",
+        "age" : 25,
+        "image" : "olivia.png"
+    },
+    {
+        "firstname" : "Mathias",
+        "lastname" : "Quist",
+        "age" : 24,
+        "image": "nina.png"
+    },
+    {
+        "firstname" : "Louise",
+        "lastname" : "Christiansen",
+        "age" : 21,
+        "image": "nina.png"
+    }
+]
+}
