@@ -2,7 +2,7 @@ const cacheName = 'cache-members';
 self.addEventListener('install', function(event) {
   event.waitUntil(
     caches.open(cacheName).then(function(cache) {
-      return cache.addAll(['/JsonStudents/', '/JsonStudents/index.html', '/JsonStudents/members.json', '/JsonStudents/morten.png', '/JsonStudents/mystyle.css', '/JsonStudents/nina.png', '/JsonStudents/olivia.png']);
+      return cache.addAll(['/JsonStudents/', '/JsonStudents/index.html', '/JsonStudents/members.json', '/JsonStudents/javascript.js' , '/JsonStudents/morten.png', '/JsonStudents/mystyle.css', '/JsonStudents/nina.png', '/JsonStudents/olivia.png']);
     })
   );
 });
